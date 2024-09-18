@@ -21,3 +21,5 @@ test_processed/
 
 # Private stuff
 private/
+
+*.DS_Store
