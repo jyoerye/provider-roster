@@ -5,6 +5,7 @@
 # VSCode/Metals
 .bloop
 .metals
+.idea
 .vscode
 metals.sbt
 
@@ -23,3 +24,4 @@ test_processed/
 private/
 
 *.DS_Store
+
