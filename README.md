@@ -4,8 +4,8 @@ This is a Spark project used to generate reports that deliver data about provide
 
 ## To Run
 ./mvnw scala:run
-Output files are placed in provider-roster/data/output
-I have committed output files for review
+* Output files are placed in provider-roster/data/output
+* I have committed output files for review
 
 ## Requirements
 * Language: Scala
